@@ -1,7 +1,7 @@
 ## Viaje aqui
 ### Belo Horizonte
 ![belo](./belo.jpeg)
-[**`MAIS INFORMAÇÃO`**](./belo-horizonte.md)
+<a href="./belo-horizonte.md" class="btn">MAIS INFORMAÇÃO</a>
 ### São Paulo
 ![belo](./sao-paulo.jpeg)
-[**`MAIS INFORMAÇÃO`**](./sao-paulo.md)
+<a href="./sao-paulo.md" class="btn">MAIS INFORMAÇÃO</a>
