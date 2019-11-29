@@ -1,12 +1,4 @@
-<style>
-  button {
-    border-color: rgba(255,255,255,0.2);
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 0.3rem;
-    color: black;
-  }
-</style>
+<img src="./logo.png" height="50px" width"80px" >
 ## Viaje aqui
 ### Belo Horizonte
 ![belo](./belo.jpeg)
