@@ -1,4 +1,4 @@
-<img src="./logo.png" height="50px" width"80px" >
+<img src="./logo.png" height="50px" width"80px" alt="logo"></img>
 ## Viaje aqui
 ### Belo Horizonte
 ![belo](./belo.jpeg)
