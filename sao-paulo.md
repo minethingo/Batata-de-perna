@@ -1,7 +1,7 @@
 # São Paulo
 #VamoPraSãoPaulo
 
-# Viaje aqui
+## Mais informações
 São Paulo é a cidade mais antiga e moderna do Brasil, nela tem muitas inovações de negocios. Ela tem mais de **12 milhoes** de habitantes. Ela tambem tem mais de **300 salas** de cinema.
 
 Ele é o **5º melhor** destino brasileiro. São Paulo é o melhor lugar do Brasil
